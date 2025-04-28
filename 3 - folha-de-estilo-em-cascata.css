@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: blue;
+    background-color: black;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+button {
+    background: green;
+    border-color: darkgreen;
+}
+
+.texto,
+.botao,
+p,
+#segundo-botao {
+    color: red;
+}
+
+h2 {
+    color: yellowgreen;
+
+}
+
+h2 {
+    color: blueviolet;
+}
+
+
+/* Css folha de estilo em cascata */

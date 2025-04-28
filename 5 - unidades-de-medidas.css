@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pai {
+    font-size: 16px;
+}
+
+.filho {
+    font-size: 100%;
+}
+
+.primo {
+    font-size: 200%;
+}
+
+.prima {
+    font-size: 50%;
+}
+
+h1 {
+    font-size: 16px;
+}
+
+.familia2 {
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
+
+.familia3 {
+    width: 50%;
+    height: 50%;
+    background: red;
+}
+
+.familia5 {
+    width: 50vw;
+    height: 50vh;
+    background: yellow;
+}
+
+.familia6 {
+    width: 50%;
+    height: 50%;
+    background: green;
+}
+
+.familia8 {
+    width: 50vw;
+    height: 50vh;
+    background: #0000ff;
+    color: #ffffff;
+    font-size: 32px;
+}
+
+.familia9 {
+    width: 50%;
+    height: 50%;
+    background: #ff0000;
+    color: #ffffff;
+    font-size: 0.5em;
+}
+
+.familia10 {
+    font-size: 16px;
+}
+
+.familia11 {
+    width: 50vw;
+    height: 50vh;
+    background: #ff009d;
+    color: #ffffff;
+    font-size: 2em;
+}
+
+.familia12 {
+    width: 50%;
+    height: 50%;
+    background: #00ffff;
+    color: #ffffff;
+    font-size: 2em;
+}
+
+.familia13 {
+    font-size: 16px;
+}
+
+.familia14 {
+    width: 50vw;
+    height: 50vh;
+    background: #9e3809;
+    color: #ffffff;
+    font-size: 2em;
+}
+
+.familia15 {
+    width: 50%;
+    height: 50%;
+    background: #070107;
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+.familia16 {
+    width: 500px;
+    height: 500px;
+    background: #c232c2;
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+.familia17 {
+    width: 250px;
+    height: 250px;
+    background: #7cd14b;
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+/* unidades de medidas 
+
+-> absolutas
+px (pixels)
+in (inches/polegads)
+cm / mm (centímetro / milímetro)
+
+-> relativas
+% calcula o tamanho relativo ao elemento pai
+vw (view width) 1vw é 1% da largura da janela do navegador
+vh (view height) 1vh é 1% da altura da janela do navegador
+
+emphemeral unit - unidade transitória
+em é uma unidade relativa ao elemento pai
+root raiz
+rem é uma unidade relativa ao elemento raiz
+*/
